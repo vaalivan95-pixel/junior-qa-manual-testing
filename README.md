@@ -62,7 +62,7 @@ The `test-cases/` directory contains:
 
 The documented test cases passed during the recorded manual test execution.
 
-The project demonstrates practical experience
+
 The project demonstrates practical experience in web application testing, test documentation, and validation of common e-commerce workflows.
 
 ## Author
